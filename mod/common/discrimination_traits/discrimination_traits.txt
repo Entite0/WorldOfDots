@@ -1,0 +1,105 @@
+heritage_blue = {
+    type = heritage
+    trait_group = heritage_group_blueish
+}
+
+heritage_purple {
+    type = heritage
+    trait_group = heritage_group_blueish
+}
+
+heritage_red = {
+    type = heritage
+    trait_group = heritage_group_reddish
+}
+
+heritage_orange = {
+    type = heritage
+    trait_group = heritage_group_reddish
+}
+
+heritage_arctic = {
+    type = heritage
+    trait_group = heritage_group_greenish
+}
+
+heritage_islandic = {
+    type = heritage
+    trait_group = heritage_group_greenish
+}
+
+
+
+language_commas = {
+    type = language
+    trait_group = language_group_punctuation
+}
+
+language_slashs = {
+    type = language
+    trait_group = language_group_punctuation
+}
+
+language_numbers = {
+    type = language
+    trait_group = language_group_math
+}
+
+language_lamdas = {
+    type = language
+    trait_group = language_group_math
+}
+
+language_letters = {
+    type = language
+    trait_group = language_group_word
+}
+
+language_syllables = {
+    type = language
+    trait_group = language_group_word
+}
+
+
+
+religion_materialist = {
+    type = heritage
+    trait_group = religion_group_non_spiritual
+}
+
+religion_dotist = {
+    type = heritage
+    trait_group = religion_group_dotist
+}
+
+religion_naturalist = {
+    type = heritage
+    trait_group = religion_group_naturalist
+}
+
+religion_devist = {
+    type = heritage
+    trait_group = religion_group_devist
+}
+
+
+
+tradition_blue = {
+    type = tradition 
+}
+
+tradition_naturalist = {
+    type = tradition
+}
+
+tradition_orange = {
+    type = tradition
+}
+
+tradition_purple = {
+    type = tradition
+}
+
+tradition_red = {
+    type = tradition
+}

@@ -1,0 +1,146 @@
+blue = {
+	color = {}
+	religion = tapist
+	heritage = heritage_blue
+	language = language_commas
+	traditions = { tradition_subcontiental tradition_blue }
+ 
+	male_common_first_names = { [names] } # TODO
+	female_common_first_names = { [names] } # TODO
+	common_last_names = { [names] } # TODO
+ 
+	ethnicities = { 1 = generic } # TODO
+	graphics = european # TODO
+}
+
+dark_blue = {
+        color = {}
+        religion = tapist
+        heritage = heritage_dark_blue 
+        language = language_commas
+        traditions = {tradition_blue}
+}
+
+light_blue = {
+        color = {}
+        religion = polist
+        heritage = heritage_blue 
+        language = language_commas
+        traditions = {tradition_blue } 
+} 
+
+cyan = {
+        color = {}
+        religion = polist
+        heritage = heritage_blue
+        language =  language_slashs
+        traditions = {tradition_blue } 
+} 
+
+purple = {
+        color = {}
+        religion = tapist
+        heritage = heritage_purple
+        language = language_slashs
+        traditions = {tradition_purple }
+} 
+
+violet = { 
+        color = {}
+        religion = polist
+        heritage = heritage_purple
+        language = language_slashs
+        traditions = {tradition_purple } 
+}
+
+
+
+red = { 
+        color = {}
+        religion = prism
+        heritage = heritage_red 
+        language = language_numbers 
+        traditions = {tradition_red }
+}
+
+dark_red = { 
+        color = {}
+        religion = prism
+        heritage = heritage_red
+        language = language_numbers
+        traditions = {tradition_red }
+} 
+
+light_red = {
+        color = {}
+        religion = prism
+        heritage = heritage_red 
+        language = language_numbers 
+        traditions = {tradition_red }
+} 
+
+dark_orange = {
+        color = {}
+	religion = polist
+	heritage = heritage_orange
+	language = language_numbers
+	traditions = {tradition_orange }
+}
+ 
+orange = {
+        color = {}
+	religion = polist
+	heritage = heritage_orange
+	language = language_numbers
+	traditions = {tradition_orange }
+}
+ 
+
+
+green = {
+        color = {}
+	religion = naturalist
+	heritage = heritage_green
+	language = language_letters
+	traditions = { tradition_naturalist }
+}
+ 
+arctic = {
+        color = {}
+	religion = naturalist
+	heritage = heritage_arctic
+	language = language_letters
+	traditions = { tradition_naturalist }
+}
+ 
+northern_islanders = {
+        color = {}
+	religion = naturalist
+	heritage = heritage_islandic
+	language = language_letters
+	traditions = { tradition_naturalist tradition_red }
+}
+ 
+southern_islanders = {
+        color = {}
+	religion = naturalist
+	heritage = heritage_islandic
+	language = language_letters
+	traditions = { tradition_naturalist tradition_purple }
+}
+ 
+western_islanders = {
+        color = {}
+	religion = naturalist
+	heritage = heritage_islandic
+	language = language_letters
+	traditions = { tradition_naturalist tradition_orange }
+}
+ 
+eastern_islanders = {
+        color = {}
+	religion = naturalist
+	heritage = heritage_islandic
+	language = language_letters
+	traditions = { tradition_naturalist tradition_blue }
+}
