@@ -1,0 +1,11 @@
+heritage_group_blueish = {
+    type = heritage
+}
+
+heritage_group_greenish = {
+    type = heritage
+}
+
+heritage_group_reddish = { 
+    type = heritage
+}

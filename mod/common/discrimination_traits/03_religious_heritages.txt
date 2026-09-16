@@ -1,0 +1,21 @@
+# This list is alphabetically sorted
+
+religion_devist = {
+    type = heritage
+    trait_group = religion_group_devist
+}
+
+religion_dotist = {
+    type = heritage
+    trait_group = religion_group_dotist
+}
+
+religion_materialist = {
+    type = heritage
+    trait_group = religion_group_non_spiritual
+}
+
+religion_naturalist = {
+    type = heritage
+    trait_group = religion_group_naturalist
+}

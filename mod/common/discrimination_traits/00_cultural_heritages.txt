@@ -1,0 +1,31 @@
+# This list is alphabetically sorted
+
+heritage_arctic = {
+    type = heritage
+    trait_group = heritage_group_greenish
+}
+
+heritage_blue = {
+    type = heritage
+    trait_group = heritage_group_blueish
+}
+
+heritage_islandic = {
+    type = heritage
+    trait_group = heritage_group_greenish
+}
+
+heritage_orange = {
+    type = heritage
+    trait_group = heritage_group_reddish
+}
+
+heritage_purple {
+    type = heritage
+    trait_group = heritage_group_blueish
+}
+
+heritage_red = {
+    type = heritage
+    trait_group = heritage_group_reddish
+}

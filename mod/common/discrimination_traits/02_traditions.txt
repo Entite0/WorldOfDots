@@ -1,0 +1,21 @@
+# This list is alphabetically sorted
+
+tradition_blue = {
+    type = tradition 
+}
+
+tradition_naturalist = {
+    type = tradition
+}
+
+tradition_orange = {
+    type = tradition
+}
+
+tradition_purple = {
+    type = tradition
+}
+
+tradition_red = {
+    type = tradition
+}
