@@ -1,0 +1,11 @@
+language_group_punctuation = {
+    type = language
+}
+
+language_group_math = {
+    type = language
+}
+
+language_group_word = {
+    type = language
+}

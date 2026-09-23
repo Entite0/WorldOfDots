@@ -1,0 +1,15 @@
+religion_group_non_spiritual = {
+    type = heritage
+}
+
+religion_group_naturalist = {
+    type = heritage
+}
+
+religion_group_devist = {
+    type = heritage
+}
+
+religion_group_dotist = {
+    type = heritage
+}

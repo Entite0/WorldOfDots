@@ -1,0 +1,34 @@
+tapist = {
+	icon = "gfx/interface/icons/religion_icons/hindu.dds" #TODO
+	heritage = religion_devist
+	color = { } #TODO
+	taboos = {coffee}
+}
+
+naturalist = {
+	icon = ""
+	heritage = religion_naturalist
+	color = { }
+	taboos = {}
+}
+
+prism = {
+	icon = ""
+	heritage = religion_dotist
+	color = { }
+	taboos = {}
+}
+
+polist = {
+	icon = ""
+	heritage = religion_dotist
+	color = { }
+	taboos = {}
+}
+
+atheist = {
+	icon = ""
+	heritage = religion_materialist
+	color = { }
+	taboos = {}
+}

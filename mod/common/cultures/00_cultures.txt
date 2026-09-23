@@ -1,0 +1,142 @@
+blue = {
+	color = rgb{ 10 115 255 }
+	religion = tapist
+	heritage = heritage_blue
+	language = language_commas
+	traditions = { tradition_subcontiental tradition_blue }
+
+	male_common_first_names = { [names] } # TODO
+	female_common_first_names = { [names] } # TODO
+	common_last_names = { [names] } # TODO
+
+	ethnicities = { 1 = generic } # TODO
+	graphics = european # TODO
+}
+
+dark_blue = {
+	color = rgb{ 5 68 153 }
+	religion = tapist
+	heritage = heritage_dark_blue
+	language = language_commas
+	traditions = { tradition_blue }
+}
+
+light_blue = {
+	color = rgb{ 86 174 251 }
+	religion = polist
+	heritage = heritage_blue
+	language = language_commas
+	traditions = { tradition_blue }
+}
+
+cyan = {
+	color = rgb{ 19 199 194 }
+	religion = polist
+	heritage = heritage_blue
+	language = language_slashs
+	traditions = { tradition_blue }
+}
+
+purple = {
+	color = rgb{ 191 0 255 }
+	religion = tapist
+	heritage = heritage_purple
+	language = language_slashs
+	traditions = { tradition_purple }
+}
+
+violet = {
+	color = rgb{ 128 0 255 }
+	religion = polist
+	heritage = heritage_purple
+	language = language_slashs
+	traditions = { tradition_purple }
+}
+
+red = {
+	color = rgb{ 218 39 39 }
+	religion = prism
+	heritage = heritage_red
+	language = language_numbers
+	traditions = { tradition_red }
+}
+
+dark_red = {
+	color = rgb{ 150 14 14 }
+	religion = prism
+	heritage = heritage_red
+	language = language_numbers
+	traditions = { tradition_red }
+}
+
+light_red = {
+	color = rgb{ 236 107 107 }
+	religion = prism
+	heritage = heritage_red
+	language = language_numbers
+	traditions = { tradition_red }
+}
+
+dark_orange = {
+	color = rgb{ 230 126 0 }
+	religion = polist
+	heritage = heritage_orange
+	language = language_numbers
+	traditions = { tradition_orange }
+}
+
+orange = {
+	color = rgb{ 255 184 98 }
+	religion = polist
+	heritage = heritage_orange
+	language = language_numbers
+	traditions = { tradition_orange }
+}
+
+green = {
+	color = rgb{ 32 188 32 }
+	religion = naturalist
+	heritage = heritage_green
+	language = language_letters
+	traditions = { tradition_naturalist }
+}
+
+arctic = {
+	color = rgb{ 166 197 166 }
+	religion = naturalist
+	heritage = heritage_arctic
+	language = language_letters
+	traditions = { tradition_naturalist }
+}
+
+northern_islanders = {
+	color = rgb{ 201 169 169 }
+	religion = naturalist
+	heritage = heritage_islandic
+	language = language_letters
+	traditions = { tradition_naturalist tradition_red }
+}
+
+southern_islanders = {
+	color = rgb{ 186 163 200 }
+	religion = naturalist
+	heritage = heritage_islandic
+	language = language_letters
+	traditions = { tradition_naturalist tradition_purple }
+}
+
+western_islanders = {
+	color = rgb{ 241 219 167 }
+	religion = naturalist
+	heritage = heritage_islandic
+	language = language_letters
+	traditions = { tradition_naturalist tradition_orange }
+}
+
+eastern_islanders = {
+	color = rgb{ 182 209 250 }
+	religion = naturalist
+	heritage = heritage_islandic
+	language = language_letters
+	traditions = { tradition_naturalist tradition_blue }
+}

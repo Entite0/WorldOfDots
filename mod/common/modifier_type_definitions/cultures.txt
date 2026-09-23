@@ -1,0 +1,271 @@
+state_blue_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_blue_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_blue_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_dark_blue_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_dark_blue_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_dark_blue_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_light_blue_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_light_blue_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_light_blue_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_cyan_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_cyan_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_cyan_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_purple_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_purple_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_purple_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_violet_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_violet_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_violet_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_red_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_red_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_red_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_dark_red_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_dark_red_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_dark_red_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_light_red_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_light_red_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_light_red_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_dark_orange_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_dark_orange_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_dark_orange_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_orange_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_orange_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_orange_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_green_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_green_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_green_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_arctic_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_arctic_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_arctic_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_northern_islanders_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_northern_islanders_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_northern_islanders_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_southern_islanders_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_southern_islanders_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_southern_islanders_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_western_islanders_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_western_islanders_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_western_islanders_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+
+state_eastern_islanders_standard_of_living_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_eastern_islanders_cultural_acceptance_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}
+country_fervor_target_eastern_islanders_add = {
+	decimals = 1
+	color = good
+	game_data = { ai_value = 0 }
+}

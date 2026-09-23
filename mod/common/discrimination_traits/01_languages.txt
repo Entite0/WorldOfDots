@@ -1,0 +1,31 @@
+# This list is alphabetically sorted
+
+language_commas = {
+    type = language
+    trait_group = language_group_punctuation
+}
+
+language_lamdas = {
+    type = language
+    trait_group = language_group_math
+}
+
+language_letters = {
+    type = language
+    trait_group = language_group_word
+}
+
+language_numbers = {
+    type = language
+    trait_group = language_group_math
+}
+
+language_slashs = {
+    type = language
+    trait_group = language_group_punctuation
+}
+
+language_syllables = {
+    type = language
+    trait_group = language_group_word
+}
