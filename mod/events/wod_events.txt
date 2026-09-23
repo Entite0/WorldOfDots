@@ -1,0 +1,9 @@
+﻿namespace = wod_error_suppression
+
+wod_error_suppression.0001 = {
+  hidden = yes
+  orphan = yes
+  trigger = {
+    exists = global_var:wod_is_loaded
+  }
+}

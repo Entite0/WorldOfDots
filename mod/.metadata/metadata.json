@@ -1,14 +1,14 @@
 {
-  "name" : "Name of your Mod",
-  "id" : "com.github.your-github-name.your-repo-name",
-  "version" : "0.1.0",
-  "game_id" : "victoria3",
-  "picture" : "thumbnail.png",
-  "supported_game_version" : "1.8.*",
-  "short_description" : "Description of your Mod",
-  "tags" : [],
-  "relationships" : [],
-  "game_custom_data" : {
+"name" : "WorldOfDots",
+"id" : "com.github.Entite0.WorldOfDots",
+"version" : "0.1.0",
+"game_id" : "victoria3",
+"picture" : "thumbnail.png",
+"supported_game_version" : "1.8.*",
+"short_description" : "A world in which dots are alive, and they fight for power and influence.",
+"tags" : ["Total Conversion"],
+"relationships" : [],
+"game_custom_data" : {
     "multiplayer_synchronized" : true
-  }
+}
 }
